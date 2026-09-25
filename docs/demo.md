@@ -3,7 +3,12 @@
 Recorded live on mainnet with real funds (50 USDC). Every step below is a chat message to the Tendril agent;
 everything that moved value was **proposed by the agent and approved and signed by the operator**.
 
-Video: [1-minute demo](../videos/tendril-nansen-demo-1min.mp4)
+Video: [▶ watch the 1-minute demo](https://drive.google.com/file/d/1bzcGeMXPA8OUJGI08QjVCUjqiGKLbFvp/view?usp=sharing) · [file in this repo](../videos/tendril-nansen-demo-1min.mp4)
+
+**Why this combination.** Nansen tells you *what* smart money holds and how much each token is worth; Tendril
+decides *how* you act on it safely — in multisigs you control, on any chain, with roles and approvals, and on a
+ledger that values and reports every position afterwards. This walkthrough is that loop, end to end: Nansen
+intelligence in, a controlled multi-chain portfolio out.
 
 **Starting point:** a Tendril fund ("Smart Money Portfolio") with existing hot wallets on Solana and Base.
 All USDC sits on Solana.

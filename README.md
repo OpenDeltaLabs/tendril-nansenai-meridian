@@ -13,6 +13,26 @@ track the result.
 It is also a reference for **what a Tendril connector looks like**, written against the upcoming
 [Tendril Connector SDK](sdk/README.md) (preview).
 
+## Why NansenAI + Tendril
+
+**NansenAI knows *what* to buy.** Nansen has labelled millions of wallets and follows where the best-performing
+traders and funds put their money. That's the signal: which tokens smart money holds, what it's accumulating, who
+holds a token, and what it's worth.
+
+**Tendril is *where* you hold it — and how safely.** Acting on a signal is where the risk lives. In a consumer
+app you trade from an embedded hot wallet: one person, one key, the chains that wallet supports. Tendril is built
+for money that needs more than that:
+
+- **Your custody, any chain.** Multisigs (Safe, Squads), hardware and regulated custodians — chain-agnostic, with
+  new chains and venues added as connectors. In the demo the portfolio lands in two multisigs on two chains.
+- **Teams, not just individuals.** A fund has members with roles and allowances; agents only *propose*, people
+  approve and sign.
+- **Books you can trust.** A real-time ledger values every position — NAV, allocation drift, income statements,
+  security and risk reports — for the whole portfolio, across wallets and chains.
+
+**Together:** Nansen's intelligence drives the decision, Tendril's agent turns it into a plan, and Tendril's
+custody, controls and accounting carry it out — with you approving every step.
+
 > **Heads-up:** this code runs inside Tendril. Tendril is currently in **closed beta** — to run the connector
 > end to end you need access to the Tendril API. [Join the waitlist →](https://tendril.opendelta.com/waitlist)
 
@@ -20,7 +40,8 @@ It is also a reference for **what a Tendril connector looks like**, written agai
 
 ## Watch the demo
 
-**[▶ 1-minute demo](videos/tendril-nansen-demo-1min.mp4)** — Nansen research → multisigs → buy & move → drift check.
+**[▶ Watch the 1-minute demo](https://drive.google.com/file/d/1bzcGeMXPA8OUJGI08QjVCUjqiGKLbFvp/view?usp=sharing)** — Nansen research → multisigs → buy & move → drift check.
+(Also in this repo: [`videos/tendril-nansen-demo-1min.mp4`](videos/tendril-nansen-demo-1min.mp4).)
 
 In the demo an operator talks to the Tendril agent — no forms, no scripts:
 
