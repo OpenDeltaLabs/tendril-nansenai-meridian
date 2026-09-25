@@ -1,6 +1,6 @@
 # Nansen × Tendril — smart-money portfolios, built and run by an agent
 
-> **Tendril** is a Fund Management OS by [OpenDelta](https://www.opendelta.com): one place to see, run and
+> **Tendril** is a Portfolio Management OS by [OpenDelta](https://www.opendelta.com): one place to see, run and
 > account for everything you own on-chain, wherever it happens to be held — self-custody, multisigs or
 > regulated custodians, across chains, on one real-time ledger. Agents do the research and lay out options;
 > **you** keep the decision.
