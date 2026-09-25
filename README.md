@@ -146,4 +146,4 @@ Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). The license 
 does not grant rights to the "Tendril" or "OpenDelta" names, and it does not cover the Tendril platform or API,
 which are not open source.
 
-*Built for the Nansen Meridian Buildathon. Nansen data © Nansen. Tendril is a product of OpenDelta.*
+*Built for the Nansen Meridian Buildathon. Nansen data © Nansen. Tendril is a product of OpenDelta Labs Ltd.*
