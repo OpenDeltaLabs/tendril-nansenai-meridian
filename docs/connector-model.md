@@ -46,7 +46,7 @@ auth, no retry scheduler and no UI — it maps Nansen onto Tendril's shapes and 
 
 1. **Connectors never move funds on their own.** Execution connectors *build* transactions; Tendril turns them
    into intents that the operator (or an agreed policy) approves and signs. Agents propose; humans decide.
-2. **Connectors don't post to the ledger.** They report what happened; Tendril reconciles against on-chain
+2. **Connectors don't post to the ledger.** They report what happened; Tendril reconciles against onchain
    state before anything is final.
 3. **Money is integers.** Amounts travel as base-unit strings; decimals are for display. Prices are decimal
    strings.

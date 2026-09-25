@@ -1,11 +1,11 @@
 # Nansen × Tendril — smart-money portfolios, built and run by an agent
 
 > **Tendril** is a Portfolio Management OS by [OpenDelta](https://www.opendelta.com): one place to see, run and
-> account for everything you own on-chain, wherever it happens to be held — self-custody, multisigs or
+> account for everything you own onchain, wherever it happens to be held — self-custody, multisigs or
 > regulated custodians, across chains, on one real-time ledger. Agents do the research and lay out options;
 > **you** keep the decision.
 
-This repository is the **Nansen connector for Tendril**: it brings [Nansen](https://www.nansen.ai)'s on-chain
+This repository is the **Nansen connector for Tendril**: it brings [Nansen](https://www.nansen.ai)'s onchain
 intelligence — smart-money holdings and flows, token market data, token profiles and top holders — into Tendril,
 where the Tendril agent can use it to research, weight and build a portfolio, and where Tendril can price and
 track the result.
@@ -25,7 +25,7 @@ for money that needs more than that:
 
 - **Your custody, any chain.** Multisigs (Safe, Squads), hardware and regulated custodians — chain-agnostic, with
   new chains and venues added as connectors. In the demo the portfolio lands in two multisigs on two chains.
-- **Teams, not just individuals.** A fund has members with roles and allowances; agents only *propose*, people
+- **Teams, not just individuals.** A portfolio has members with roles and allowances; agents only *propose*, people
   approve and sign.
 - **Books you can trust.** A real-time ledger values every position — NAV, allocation drift, income statements,
   security and risk reports — for the whole portfolio, across wallets and chains.

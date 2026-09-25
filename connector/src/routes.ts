@@ -215,7 +215,7 @@ export const tokenMarketData: DataRoute<NansenConfig, z.infer<typeof MarketDataI
     for (const id of input.assetIds) {
       const a = await ctx.assets.get(id);
       if (!a?.networkId || !a.contractAddress) {
-        throw new ConnectorError('invalid_input', `asset ${id} is unknown or has no on-chain contract`);
+        throw new ConnectorError('invalid_input', `asset ${id} is unknown or has no onchain contract`);
       }
       refs.push({ chain: a.networkId, tokenAddress: a.contractAddress, label: id });
     }

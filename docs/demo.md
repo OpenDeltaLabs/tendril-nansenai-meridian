@@ -66,7 +66,7 @@ The agent composes **one 13-step plan** that the operator approves once:
 2. buy ABASWETH, AERO, TIBBIR on Base (1inch) and move each into the Safe
 3. buy PUMP, STONK, ZCAT on Solana (Jupiter) and move each into the Squads vault
 
-Each step waits for the previous one to settle on-chain; "send what the swap returned" is resolved from the
+Each step waits for the previous one to settle onchain; "send what the swap returned" is resolved from the
 settled result rather than the quote. The operator signs each transaction as it comes up.
 
 **Result — held in the multisigs, valued by Tendril:**

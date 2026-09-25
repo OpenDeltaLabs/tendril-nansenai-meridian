@@ -7,7 +7,7 @@ import { NansenConfigSchema, type NansenConfig } from './schemas.ts';
 /**
  * Nansen connector for Tendril.
  *
- * A read-only data connector: it brings Nansen's on-chain intelligence —
+ * A read-only data connector: it brings Nansen's onchain intelligence —
  * smart-money holdings and flows, token market data, token profiles and top
  * holders — into Tendril, where it becomes
  *   - REST endpoints on the Tendril API (`/v1/connectors/nansen/*`),
@@ -21,7 +21,7 @@ import { NansenConfigSchema, type NansenConfig } from './schemas.ts';
 export default defineConnector<NansenConfig>({
   kind: 'nansen',
   name: 'Nansen',
-  description: 'On-chain intelligence: smart-money holdings & flows, token market data and holders.',
+  description: 'Onchain intelligence: smart-money holdings & flows, token market data and holders.',
   category: ['data_provider'],
   version: '0.1.0',
   configSchema: NansenConfigSchema,

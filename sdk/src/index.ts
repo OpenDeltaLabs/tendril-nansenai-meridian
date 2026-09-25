@@ -90,7 +90,7 @@ export interface ConnectorContext<Config> {
 }
 
 export interface AssetDirectory {
-  /** The registered asset for an on-chain token, or null if Tendril doesn't know it yet. */
+  /** The registered asset for an onchain token, or null if Tendril doesn't know it yet. */
   findByContract(network: NetworkId, contractAddress: string): Promise<AssetRef | null>;
   get(assetId: string): Promise<AssetRef | null>;
 }
