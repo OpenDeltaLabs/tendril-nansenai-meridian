@@ -1,5 +1,5 @@
 {
-  "name": "tendril-nansen-connector",
+  "name": "tendril-nansenai-meridian",
   "version": "0.1.0",
   "private": true,
   "description": "Nansen on-chain intelligence as a Tendril connector \u2014 reference implementation on the Tendril Connector SDK (preview).",
