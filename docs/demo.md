@@ -3,7 +3,7 @@
 Recorded live on mainnet with real funds (50 USDC). Every step below is a chat message to the Tendril agent;
 everything that moved value was **proposed by the agent and approved and signed by the operator**.
 
-Videos: [1-minute cut](../videos/tendril-nansen-demo-1min.mp4) · [full walkthrough](../videos/tendril-nansen-walkthrough.mp4)
+Video: [1-minute demo](../videos/tendril-nansen-demo-1min.mp4)
 
 **Starting point:** a Tendril fund ("Smart Money Portfolio") with existing hot wallets on Solana and Base.
 All USDC sits on Solana.

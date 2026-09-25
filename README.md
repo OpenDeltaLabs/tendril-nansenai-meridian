@@ -20,10 +20,7 @@ It is also a reference for **what a Tendril connector looks like**, written agai
 
 ## Watch the demo
 
-| | |
-| --- | --- |
-| **1-minute cut** | [`videos/tendril-nansen-demo-1min.mp4`](videos/tendril-nansen-demo-1min.mp4) |
-| **Full walkthrough (3–5 min)** | [`videos/tendril-nansen-walkthrough.mp4`](videos/tendril-nansen-walkthrough.mp4) |
+**[▶ 1-minute demo](videos/tendril-nansen-demo-1min.mp4)** — Nansen research → multisigs → buy & move → drift check.
 
 In the demo an operator talks to the Tendril agent — no forms, no scripts:
 
@@ -142,5 +139,11 @@ it, **[join the closed beta](https://tendril.opendelta.com/waitlist)** — and r
 [Introducing Tendril](https://www.opendelta.com/blog/introducing-tendril).
 
 ---
+
+## License
+
+Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). The license covers this repository's code; it
+does not grant rights to the "Tendril" or "OpenDelta" names, and it does not cover the Tendril platform or API,
+which are not open source.
 
 *Built for the Nansen Meridian Buildathon. Nansen data © Nansen. Tendril is a product of OpenDelta.*
